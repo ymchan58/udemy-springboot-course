@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mycoolapp/pom.xml" />
+        <option value="$PROJECT_DIR$/cruddemo/pom.xml" />
       </list>
     </option>
   </component>
